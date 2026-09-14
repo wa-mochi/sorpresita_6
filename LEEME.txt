@@ -1,0 +1,13 @@
+ANIVERSARIO ABBY + MOCHI
+
+Para abrir la página:
+1. Abre la carpeta.
+2. Haz doble clic en index.html.
+
+Archivos:
+- index.html: contenido de la página.
+- style.css: colores y diseño.
+- script.js: botones e interacciones.
+- fotos/: imágenes usadas en la página.
+
+Si quieres cambiar una foto, reemplaza el archivo dentro de la carpeta fotos conservando el mismo nombre.
